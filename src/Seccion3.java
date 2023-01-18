@@ -7,7 +7,7 @@ public class Seccion3 {
         Coche miCoche = new Coche();
 
         miCoche.sumarPuerta(4);
-        System.out.println(miCoche.numeroPuertas);
+        System.out.println("el numero de puertas que tiene miCoche es: " + miCoche.numeroPuertas);
 
     }
 
