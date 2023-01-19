@@ -1,3 +1,5 @@
+package Seccion3;
+
 public class Seccion3 {
     public static void main(String[] args) {
         int resultado = suma(10, 20, 30);
