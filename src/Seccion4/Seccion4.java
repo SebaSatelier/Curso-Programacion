@@ -36,7 +36,7 @@ public class Seccion4 {
 
         System.out.println("------------------------------------------");
 
-        String estacion = "Verano";
+        String estacion = "Hola";
 
         switch(estacion){
             case "Invierno":
