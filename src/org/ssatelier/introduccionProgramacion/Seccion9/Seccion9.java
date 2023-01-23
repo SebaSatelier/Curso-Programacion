@@ -1,4 +1,4 @@
-package Seccion9;
+package org.ssatelier.introduccionProgramacion.Seccion9;
 
 public class Seccion9 {
     public static void main(String[] args) {
