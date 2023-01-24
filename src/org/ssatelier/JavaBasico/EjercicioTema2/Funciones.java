@@ -7,7 +7,7 @@ public class Funciones {
         double precioNotebook = 1550.87;
 
         System.out.println("Precio final Heladera = " + sumarIva(precioHeladera));
-        
+
         System.out.println("Precio final Notebook = " + sumarIva(precioNotebook));
 
 
